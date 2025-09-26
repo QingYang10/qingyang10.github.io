@@ -1,5 +1,5 @@
 ---
-title: Welcome to Qing Yang's website
+title: Welcome to Qing Yang's Website
 permalink: /
 author_profile: true
 redirect_from:
