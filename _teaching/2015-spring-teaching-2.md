@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Introductory Statistics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Lecture"
+permalink: 
+venue: "Duke University, School of Nursing"
+date: 2015- - 2025
 location: "City, Country"
 ---
 
